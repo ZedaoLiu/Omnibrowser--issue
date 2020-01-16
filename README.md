@@ -1,13 +1,19 @@
 # Omnibrowser--issue
 
+<br><br><br><br><br><br>
+
 ## 网站问题@肖亮
 ### 1.收索框模糊匹配 搜索文章名全称不行，搜几个单词可以。
 ### 2.login successful的提示还要手动x掉，可以换成自动隐藏。
 ### 3.网站登录登出功能，同时在线人数限制。
 ### 4.把resetpassword功能移到首页和搜索结果页
 
+<br><br><br><br><br><br>
+
 ## 数据问题@张天然
 ### 1.No_140_1 No_162_1 No_162_2 No_162_6 No_162_7 No_186_1 No_271_1 No_329_2 No_340_1 No_340_2 No_73_1 的defaultGeneInput字段没有
+
+<br><br><br><br><br><br>
 
 ## API问题@李玥
 ### 1.http://47.92.36.58:9099/market/gene_hint 和 http://47.92.36.58:9099/market/obs/<str:dataset_ID>
