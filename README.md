@@ -10,8 +10,6 @@
 ### 1.No_140_1 No_162_1 No_162_2 No_162_6 No_162_7 No_186_1 No_271_1 No_329_2 No_340_1 No_340_2 No_73_1 的defaultGeneInput字段没有
 <br><br><br><br><br><br>
 
-### 发布版数据库中，有大概不到十个数据集metadata-datasetID为空字符串或‘notavailable’
-
 ## API问题@李玥
 ### 1.http://47.92.36.58:9099/market/gene_hint 和 http://47.92.36.58:9099/market/obs/<str:dataset_ID>
 #### No_337_1  No_342_1   No_54_3   No_54_4  No_54_5  这5个数据集请求没有返回
