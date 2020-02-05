@@ -18,3 +18,5 @@
 ### 3.http://47.92.36.58:9099/market/query_gene_expression_all_cells
 #### "use_sum":"TRUE"  没有问题  "use_sum":"FALSE" 有问题的数据集 :No_136_5 No_156_1 No_167_1 No_221_1  No_241_1  No_290_1 No_326_1 No_38_1 （其中No_136_5  "expression_vector"里面有”NaN”）
 ### 4.http://47.92.36.58:9099/market/paga返回数据中的node_name 和 http://47.92.36.58:9099/market/obs/返回数据中的clusterName对应不上 No_4_1
+
+### 发布版数据库里含有一个No_i1_1,目前未发现对功能的影响，文杰的代码里知道有这个数据集存在，可以问文杰是什么原因。
